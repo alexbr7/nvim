@@ -9,7 +9,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
 Plug 'github/copilot.vim'
 Plug 'vimsence/vimsence'
-
+Plug 'tpope/vim-fugitive'
 " Better Visual Guide 
 Plug 'Yggdroot/indentLine'
 
